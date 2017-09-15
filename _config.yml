@@ -1,6 +1,6 @@
 ---
 title: Testsite
-timezone: UTC
+timezone: America/Bogota
 collections:
   posts:
     title: Posts
